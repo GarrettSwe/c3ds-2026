@@ -1,4 +1,4 @@
-# c3ds-2026
+# C3 Data Science Bootcamp files and notes
 ## My work from the C3 Data science bootcamp
 This is where I will host all of the work that I did during the bootcamp. 
 
